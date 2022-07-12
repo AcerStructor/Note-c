@@ -1,0 +1,7 @@
+# folders:
+sdl
+
+# files
+*.o
+*.exe
+*.dll
